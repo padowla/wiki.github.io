@@ -22,7 +22,7 @@ In addition, for each of these two categories we have a further classification:
 - **Policies**: settings that **CANNOT** be changed by the user
 - **Preferences**: settings that can be changed by the user
 
-![Untitled](Group%20Policy%20Object%20e8d6951027cd4f7289db1cd535346eac/Untitled.png)
+![Untitled](Group_Policy_Object/Untitled.png)
 
 # Refresh interval
 
