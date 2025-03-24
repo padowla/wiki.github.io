@@ -1,8 +1,3 @@
-# Port knocking
-
-Owner: padowla
-Created time: March 14, 2024 10:45 PM
-
 # **Port knocking**
 
 Port knocking is a simple concept, it’s like you invite friends at home, you tell them, when you arrive, you ring twice *short*, then once *long* on the bell, so I that can recognize you then open the door, otherwise it’s a false alarm.
