@@ -1,0 +1,8 @@
+# DBMS
+
+Owner: padowla
+Created time: March 6, 2024 6:13 PM
+
+[MSSQL Server](DBMS%20059976ad52694c23a8c23183393d8fb7/MSSQL%20Server%2041b82c86c56d459ca101ce7e7a1286da.md)
+
+[Oracle Server](DBMS%20059976ad52694c23a8c23183393d8fb7/Oracle%20Server%20d4309b4000cd4254b1160e0305b40516.md)
